@@ -20,7 +20,7 @@ Usage
 
     Run the following command to compare the packages:
 
-python compare_packages_cli.py -p packages.json
+python3 compare_packages_cli.py -p packages.json
 
     The output will be a JSON report with the following information:
 
@@ -28,7 +28,7 @@ python compare_packages_cli.py -p packages.json
     Missing in Sisyphus: List of packages that are in P10 but not in Sisyphus.
     Version mismatch: List of packages with different versions in Sisyphus and P10.
 
-#Notes
+Notes
 
     The package lists for comparison are stored in the packages.json file.
     You can edit the packages.json file to add or remove packages from the comparison.
