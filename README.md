@@ -1,12 +1,12 @@
-#Sisyphus vs. P10 Package Comparison Tool
+Sisyphus vs. P10 Package Comparison Tool
 
-#This tool compares the packages available in Sisyphus with those available in P10 for Alt Linux 10.
+This tool compares the packages available in Sisyphus with those available in P10 for Alt Linux 10.
 Requirements
 
     Alt Linux 10
     Python 3
 
-#Installation
+Installation
 
     Clone this repository:
 
