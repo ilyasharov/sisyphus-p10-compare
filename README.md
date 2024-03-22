@@ -16,7 +16,7 @@ git clone https://github.com/user/sisyphus-p10-compare.git
 
 sudo apt install python3 python3-json
 
-#Usage
+Usage
 
     Run the following command to compare the packages:
 

@@ -1,0 +1,62 @@
+{
+  "architectures": ["x86_64", "arm64"],
+  "sisyphus_packages": [
+    {
+      "name": "numpy",
+      "version": "1.23.4",
+      "arch": "x86_64"
+    },
+    {
+      "name": "pandas",
+      "version": "1.4.2",
+      "arch": "x86_64"
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.0.2",
+      "arch": "x86_64"
+    },
+    {
+      "name": "tensorflow",
+      "version": "2.9.1",
+      "arch": "arm64"
+    },
+    {
+      "name": "torch",
+      "version": "1.9.1",
+      "arch": "arm64"
+    }
+  ],
+  "p10_packages": [
+    {
+      "name": "numpy",
+      "version": "1.23.4",
+      "arch": "x86_64"
+    },
+    {
+      "name": "pandas",
+      "version": "1.4.2",
+      "arch": "x86_64"
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.0.2",
+      "arch": "x86_64"
+    },
+    {
+      "name": "tensorflow",
+      "version": "2.9.1",
+      "arch": "arm64"
+    },
+    {
+      "name": "torch",
+      "version": "1.9.1",
+      "arch": "arm64"
+    },
+    {
+      "name": "jupyter",
+      "version": "1.0.0",
+      "arch": "x86_64"
+    }
+  ]
+}
